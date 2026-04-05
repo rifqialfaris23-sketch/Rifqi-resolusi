@@ -1,3 +1,5 @@
 RIFQI RESOLUSI
 - Konsisten untuk belajar koding
 - Membuat suatu program
+- Membuat aplikasi web pengelolaan aset
+- Berkolaborasi dengan expert
